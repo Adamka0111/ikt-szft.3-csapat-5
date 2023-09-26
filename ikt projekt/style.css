@@ -47,3 +47,6 @@ h6{
   color: white;
   text-align: center;
 }
+#elso:hover, #masodik:hover, #harmadik:hover, #negyedik:hover{
+  background-color: rgb(201, 201, 201);
+}
